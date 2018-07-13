@@ -1,0 +1,9 @@
+﻿  pong.cpp
+  breakout.cpp
+d:\230hw\230hw\230hw05_breakout\breakout\breakout.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\230hw\230hw\230hw05_breakout\breakout\breakout.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\230hw\230hw\230hw05_breakout\breakout\breakout.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\230hw\230hw\230hw05_breakout\breakout\breakout.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Asteroid.cpp
+  Generating Code...
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
